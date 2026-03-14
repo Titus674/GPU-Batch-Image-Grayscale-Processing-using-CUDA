@@ -1,8 +1,7 @@
-Use this **README.md** for your project. You can copy and paste it into your `README.md` file.
-
----
 
 # GPU Batch Image Grayscale Processing using CUDA
+### Name : Titus Ratna Kumar Karivella 
+### Register number : 212224230292
 
 ## Project Description
 
